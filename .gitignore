@@ -1,0 +1,12 @@
+build/
+*.exe
+*.obj
+*.db
+*.sqlite
+*.sqlite3
+.vs/
+.idea/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
